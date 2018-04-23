@@ -8,6 +8,8 @@
 
 ..* (Using pairs) D. Scharstein : A taxomony and evaluation of dense two-frame stereo correspondence algorithms (2002)
 
+..* N. Sunderhauf : On the performance of convnet features for place recognition
+
 ## Depth Esimation
 ..* D. Xu : Structured Attention Guided Convolutional Neural fields for Monocular Depth Estimation
 
@@ -19,7 +21,11 @@
 
 ..* D. Martins : Fusion of stereo and still monocular depth estimates in a self.supervised learning context
 
+..* A. Atapour-Abarghouei : Real-time Monocular depth Estimation using synthetic data with Domain Adaptation via Image style transfer
 
+## Normal Estimation / Normal Orientation
+
+..* R. J. Woodhom : Photometroc method for determining surface orientation from  multiple images
 
 ## Prediction video
 
@@ -29,20 +35,45 @@
 
 ..* M. Mathiew : Deep multi-scale video predicting beyond Mean Square Error (2015)
 
+..* A. X. Lee : Stochastic Adversarial Video Prediction
+
 ## Image Processing
 
-A. Hore : Image quality metrics : PSNR vs SSIM
+..* A. Hore : Image quality metrics : PSNR vs SSIM
+
+## Normalization
+
+..* J. Ba : Layer Normalization (2016)
 
 ## Sequence modelling
 
-V. Michalski : Modelling deep temporal dependencies with reccurent grammar cells (2014)
+..* V. Michalski : Modelling deep temporal dependencies with reccurent grammar cells (2014)
 
-F. Fragkiadak : Learning predictive visual  models of physics for playing billards (2016)
+..* F. Fragkiadak : Learning predictive visual  models of physics for playing billards (2016)
 
-J. Walker : Dense optical flow prediction from a static image (2015)
+..* J. Walker : Dense optical flow prediction from a static image (2015)
 
+## Stereo Matching
+
+..* J. Pang : Zoom and Learn : Generalizing Deep Stereo Matching to Novel Domains
+
+## Localization and Mapping
+
+..* M. Cummins : Probabilistic localization and mapping in the space of appearance (2008)
+
+..* J. Shotton : Scene coordonate regression forests for camera relocalization in RGB-D images (2013)
 
 # Space Navigation
+
+..* (Static scene + changing lightning) A. Abrams : Heliometric stereo : Shape from sun position (2012)
+
+..* L. Blackmore : Robust Execution for Stochastic Hybrid Systems : Algorithms for Control, Estimation and Learning (2008)
+
+# Reinforcement Learning
+
+..* J. Subramanian : Renewal Monte Carlo : Renewal theory based reinforcement learning
+
+..* Y. Bengio : Curriculum Learning
 
 # Other
 
