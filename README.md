@@ -19,6 +19,8 @@
 
 * A. Toshev : Deeppose : Human pose estimation via deep neural networks (2014)
 
+* Y. Li : Worldwide pose estimation using 3d points clouds
+
 ## Structure from motion
 
 * S. Agarwal : Building rome in a day (2011)
@@ -56,6 +58,10 @@
 * J. Liu : Neural Network prediction model of rolling force based on ReLU activation function (2016)
 
 * M. Liu : Discrete-Constinuous Depth estimation from a single image (2014)
+
+* R. Garg : Unsupervised CNN for single view depth estimation (2016)
+
+* J. Xie : Fully automatic 2d-to-3d video conversion with deep convolutional neural networks (2016)
 
 
 
@@ -123,6 +129,10 @@ Y.Li : Unsupervised Learning of edges (2016)
 * M. Cummins : Probabilistic localization and mapping in the space of appearance (2008)
 
 * J. Shotton : Scene coordonate regression forests for camera relocalization in RGB-D images (2013)
+
+* P. Sermanet : Overfeat : Integrated recognition, localization and detection using convolutional neural network 
+
+* J. Wang Coarse-to-fine vision-based localization by indexing scale-invariant features (2006)
 
 # Navigation
 
