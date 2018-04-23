@@ -1,5 +1,10 @@
 # Deep Learning
 
+## Features Extractor
+
+* C. Szegedy : Going deeper with convolution (2014)
+
+
 ## Pose Estimation
 
 * W. D : Vehicule Pose and Shape Estimation through Multiple Monocular Vision
@@ -12,6 +17,8 @@
 
 * A. Kendall : Geometric loss function for camera pose regression with deep learning (2017)
 
+* A. Toshev : Deeppose : Human pose estimation via deep neural networks (2014)
+
 ## Structure from motion
 
 * S. Agarwal : Building rome in a day (2011)
@@ -19,6 +26,7 @@
 * C. Wu : Toward linear-time incremental structure from motion (2013)
 
 ## Depth Esimation
+
 * D. Xu : Structured Attention Guided Convolutional Neural fields for Monocular Depth Estimation
 
 * (temopral sequences) R. Ranftl : Dense monocular depth estimation in complex dynamic scenes (2016)
@@ -33,13 +41,31 @@
 
 * D. Eigen : Depth map prediction from a single image using a multi-scale deep network
 
+* D. Eigen : Predicting depth, surface normals and semantic labels with a common multi-scale convolutional neural network (2015)
+
 * L. Ladicky : Pulling things out of perspective (2014)
 
 * F.Liu : Learning depth from single monocular images using deep convolutional neural fields
 
+* K.Chatfield : Return of the devil in the details : delving deep into convolutional nets (2014)
+
+* F. Ciurea : Systems and methods for performing depth estimation using image data from multiple spectral channels (2014)
+
+* F. Ma : Sparse-to-dense : Depth prediction from depth samples and single image
+
+* J. Liu : Neural Network prediction model of rolling force based on ReLU activation function (2016)
+
+* M. Liu : Discrete-Constinuous Depth estimation from a single image (2014)
+
+
+
 ## Normal Estimation / Normal Orientation
 
 * R. J. Woodhom : Photometroc method for determining surface orientation from  multiple images
+
+## Edge Detection
+
+Y.Li : Unsupervised Learning of edges (2016)
 
 ## Prediction video
 
@@ -50,6 +76,25 @@
 * M. Mathiew : Deep multi-scale video predicting beyond Mean Square Error (2015)
 
 * A. X. Lee : Stochastic Adversarial Video Prediction
+
+## Optical flow
+
+* T. Brox : High Accuracy optical flow estimation based on a theory for wrapping (2004)
+* C. Zach : A duality based approach for realtime tv-l 1 optical flow (2007)
+* B.K. Horn : Determining optical flow
+
+
+## Transfer Learning
+
+* Y. Bengio : Representation learning : a review and new perpectives (2013)
+
+* J. Donahue : A deep convolutional activation feature for genetic visual recognition (2013)
+
+* M. Oquab : Learning and transfering mid-level image representations using convolutional neural networks (2014)
+
+* A. S. Razavian : CNN features off-the-shelf : on estourding baseline for recognition (2014)
+
+
 
 ## Image Processing
 
@@ -66,6 +111,8 @@
 * F. Fragkiadak : Learning predictive visual  models of physics for playing billards (2016)
 
 * J. Walker : Dense optical flow prediction from a static image (2015)
+
+* S. Bai : Empirical evaluation of Generic Convolutional and Recurrent networks for sequence modelling (2018)
 
 ## Stereo Matching
 
@@ -96,6 +143,24 @@
 
 * Y. Bengio : Curriculum Learning
 
+* V. Levine : Guided Policy Search (2013)
+
+* Y. Xiang : Constrained online optical control for continuous-time non-linear system using neurodynamics programming
+
+* P. Medagam : Optimal control of non-linear systems using rbf neural network and adaptive kalman filter
+
+* S. Efforti : Optimal control problem via neural network
+
+* S. Levine : Exploring Deep and recurrent architecture for optimal control
+
+* T. Zhang : Learning deep control policies for autonomous aerialmvehicules with npc-guided policy search
+
+* E. Todorov : Optimality principles in sensiromotor control
+
+* 
+
+
+
 # Other
 
 * E. Jared Shanwell : Vision-Aided Absolute Trajectory Estimation Using an Unsupervised Deep network with Online Erro Correction
@@ -106,3 +171,4 @@
 
 * A. J. Davidson: FutureMapping : The computaitonal Structure of Spatial AI Systems
 
+* D. Jimemez Pezende : Unsupervised Learning of 3D Structure from Image 
